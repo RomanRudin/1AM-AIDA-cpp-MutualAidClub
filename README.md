@@ -1,2 +1,2 @@
-# 1AM-AIDA-C-MutualAidClub
+# 1AM-AIDA-cpp-MutualAidClub
 If you have any problems with C++ lab work, just commit your problem to this repository (preferably in your own folder) and wait. Someone will help you
